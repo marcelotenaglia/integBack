@@ -1,0 +1,244 @@
+{
+  "jugadores": [
+    {
+      "id": "1",
+      "nombreyapellido": "Franco Armani",
+      "club": "River Plate",
+      "posicion": "Arquero",
+      "fecha_de_nacimiento": "1986-10-16",
+      "peso": "85 kg",
+      "altura": "1.89 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "2",
+      "nombreyapellido": "Marcos Rojo",
+      "club": "Boca Juniors",
+      "posicion": "Defensor",
+      "fecha_de_nacimiento": "1990-03-20",
+      "peso": "82 kg",
+      "altura": "1.87 m",
+      "pie_habil": "Izquierdo"
+    },
+    {
+      "id": "3",
+      "nombreyapellido": "Gabriel Hauche",
+      "club": "Racing Club",
+      "posicion": "Delantero",
+      "fecha_de_nacimiento": "1986-11-27",
+      "peso": "73 kg",
+      "altura": "1.70 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "4",
+      "nombreyapellido": "Fabricio Bustos",
+      "club": "Independiente",
+      "posicion": "Defensor",
+      "fecha_de_nacimiento": "1996-04-28",
+      "peso": "69 kg",
+      "altura": "1.67 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "5",
+      "nombreyapellido": "Lautaro Giannetti",
+      "club": "Vélez Sarsfield",
+      "posicion": "Defensor",
+      "fecha_de_nacimiento": "1993-03-13",
+      "peso": "77 kg",
+      "altura": "1.82 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "6",
+      "nombreyapellido": "Jonathan Galván",
+      "club": "Argentinos Juniors",
+      "posicion": "Defensor",
+      "fecha_de_nacimiento": "1992-06-25",
+      "peso": "75 kg",
+      "altura": "1.80 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "7",
+      "nombreyapellido": "Miguel Merentiel",
+      "club": "Defensa y Justicia",
+      "posicion": "Delantero",
+      "fecha_de_nacimiento": "1996-02-24",
+      "peso": "72 kg",
+      "altura": "1.76 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "8",
+      "nombreyapellido": "Leonardo Burián",
+      "club": "Colón",
+      "posicion": "Arquero",
+      "fecha_de_nacimiento": "1984-01-21",
+      "peso": "79 kg",
+      "altura": "1.85 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "9",
+      "nombreyapellido": "Enzo Kalinski",
+      "club": "Estudiantes de La Plata",
+      "posicion": "Centrocampista",
+      "fecha_de_nacimiento": "1987-03-10",
+      "peso": "72 kg",
+      "altura": "1.78 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "10",
+      "nombreyapellido": "Lucas Rodríguez",
+      "club": "Gimnasia y Esgrima La Plata",
+      "posicion": "Defensor",
+      "fecha_de_nacimiento": "1994-07-27",
+      "peso": "70 kg",
+      "altura": "1.74 m",
+      "pie_habil": "Izquierdo"
+    },
+    {
+      "id": "11",
+      "nombreyapellido": "Gabriel Ávalos",
+      "club": "Argentinos Juniors",
+      "posicion": "Delantero",
+      "fecha_de_nacimiento": "1990-10-05",
+      "peso": "85 kg",
+      "altura": "1.85 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "12",
+      "nombreyapellido": "Julián Chicco",
+      "club": "Patronato",
+      "posicion": "Centrocampista",
+      "fecha_de_nacimiento": "1998-01-13",
+      "peso": "74 kg",
+      "altura": "1.76 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "13",
+      "nombreyapellido": "Sebastián Torrico",
+      "club": "San Lorenzo",
+      "posicion": "Arquero",
+      "fecha_de_nacimiento": "1980-02-22",
+      "peso": "83 kg",
+      "altura": "1.86 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "14",
+      "nombreyapellido": "Federico Mancinelli",
+      "club": "Huracán",
+      "posicion": "Defensor",
+      "fecha_de_nacimiento": "1982-05-26",
+      "peso": "74 kg",
+      "altura": "1.76 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "15",
+      "nombreyapellido": "Luis Miguel Rodríguez",
+      "club": "Atlético Tucumán",
+      "posicion": "Delantero",
+      "fecha_de_nacimiento": "1985-01-01",
+      "peso": "76 kg",
+      "altura": "1.70 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "16",
+      "nombreyapellido": "Jorge Carrascal",
+      "club": "River Plate",
+      "posicion": "Centrocampista",
+      "fecha_de_nacimiento": "1998-05-25",
+      "peso": "68 kg",
+      "altura": "1.80 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "17",
+      "nombreyapellido": "Cristian Vega",
+      "club": "Central Córdoba",
+      "posicion": "Centrocampista",
+      "fecha_de_nacimiento": "1993-09-24",
+      "peso": "73 kg",
+      "altura": "1.74 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "18",
+      "nombreyapellido": "Mauricio Cuero",
+      "club": "Banfield",
+      "posicion": "Delantero",
+      "fecha_de_nacimiento": "1993-01-28",
+      "peso": "74 kg",
+      "altura": "1.78 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "19",
+      "nombreyapellido": "Miguel Ángel Torrén",
+      "club": "Argentinos Juniors",
+      "posicion": "Defensor",
+      "fecha_de_nacimiento": "1988-08-12",
+      "peso": "79 kg",
+      "altura": "1.81 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "20",
+      "nombreyapellido": "Enzo Díaz",
+      "club": "Talleres",
+      "posicion": "Defensor",
+      "fecha_de_nacimiento": "1996-12-07",
+      "peso": "76 kg",
+      "altura": "1.78 m",
+      "pie_habil": "Izquierdo"
+    },
+    {
+      "id": "21",
+      "nombreyapellido": "Lucas Acevedo",
+      "club": "Godoy Cruz",
+      "posicion": "Defensor",
+      "fecha_de_nacimiento": "1991-11-08",
+      "peso": "85 kg",
+      "altura": "1.90 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "22",
+      "nombreyapellido": "Franco Soldano",
+      "club": "Unión",
+      "posicion": "Delantero",
+      "fecha_de_nacimiento": "1994-09-14",
+      "peso": "78 kg",
+      "altura": "1.86 m",
+      "pie_habil": "Derecho"
+    },
+    {
+      "id": "23",
+      "nombreyapellido": "Matías Rojas",
+      "club": "Racing Club",
+      "posicion": "Centrocampista",
+      "fecha_de_nacimiento": "1995-11-03",
+      "peso": "75 kg",
+      "altura": "1.78 m",
+      "pie_habil": "Izquierdo"
+    },
+    {
+      "nombreyapellido": "Marcelo Tenaglia",
+      "club": "River Plate",
+      "posicion": "Centrocampista",
+      "fecha_de_nacimiento": "1999-01-12",
+      "peso": 72,
+      "altura": 176,
+      "pie_habil": "Derecho",
+      "id": "8f0e"
+    }
+  ]
+}
